@@ -7,3 +7,12 @@ git init -----inicia git
 git status -----checas los archivos realizados
 git add . [git add --all, git ]    ----agregas todos ñlos archivos realizados o tambien los que esta en []
 git add .\"nombredearchivo"   ----agrega un archivo especifico
+git commit -m "primer corte" ------se gusrdan los cambios
+git log    --------checas quien ha modificado o guardado cambiox
+git status -- short ---- checamos cuales con los archivos agregados
+git branch ---- en que rama estamos en este caso en master 
+git branche ccnobe --- se agraga una nueva rama con en nombre de ccnobe
+git checkout ccnobe  ----cambia de rama  de master a ccnobe
+git branch ----checamos si estamois en ccnobe
+
+
