@@ -1,0 +1,9 @@
+para agregar  un git abres terminal cmd
+mkdir "nombredeproyecto"  ----para crear una carpeta
+cd "nombredeproyecto"   --- acude a la carpeta
+code  ----abre visual 
+en visual abres terminal
+git init -----inicia git
+git status -----checas los archivos realizados
+git add . [git add --all, git ]    ----agregas todos ñlos archivos realizados o tambien los que esta en []
+git add .\"nombredearchivo"   ----agrega un archivo especifico
