@@ -1,4 +1,17 @@
+body {
+  background-color: aquamarine;
+}
 div {
-  display: flex;
+  display: block;
+  text-align: center;
+}
+p {
+  font-weight: bolder;
+  font-size: large;
+}
+img.logo {
+  width: 300px;
+  display: block;
+  display: list-item;
   text-align: center;
 }
