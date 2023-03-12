@@ -2,10 +2,11 @@ para agregar  un git abres terminal cmd
 mkdir "nombredeproyecto"  ----para crear una carpeta
 cd "nombredeproyecto"   --- acude a la carpeta
 code  ----abre visual 
+ls ----- para ver todos los archivos en visual studio
 en visual abres terminal
 git init -----inicia git
 git status -----checas los archivos realizados
-git add . [git add --all, git ]    ----agregas todos ñlos archivos realizados o tambien los que esta en []
+git add . [git add --all, git ]    ----agregas todos los archivos realizados o tambien los que esta en []
 git add .\"nombredearchivo"   ----agrega un archivo especifico
 git commit -m "primer corte" ------se gusrdan los cambios
 git log    --------checas quien ha modificado o guardado cambiox
