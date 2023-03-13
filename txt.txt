@@ -1,9 +1,22 @@
 para agregar  un git abres terminal cmd
 mkdir "nombredeproyecto"  ----para crear una carpeta
-cd "nombredeproyecto"   --- acude a la carpeta
-code  ----abre visual 
-en visual abres terminal
-git init -----inicia git
-git status -----checas los archivos realizados
-git add . [git add --all, git ]    ----agregas todos ñlos archivos realizados o tambien los que esta en []
-git add .\"nombredearchivo"   ----agrega un archivo especifico
+cd "nombredeproyecto"   -- acude a la carpeta
+code              -- abre visual 
+ls                -- para ver todos los archivos en visual studio en visual abres terminal
+git init          -- inicia git
+git status        -- checas los archivos realizados
+git add Archivo   -- agrega el archivo
+git add Carpeta   -- agraga el nombre de la carpeta
+git add .         -- se lleva todo o tambien 
+git add --all     -- es igual se lleva todo
+git add --A       --es igual se lleva todo     
+git add .\miproyecto         -- agrega un archivo especifico
+git commit -m "primer corte" --- se gusrdan los cambios
+git log                      -- checas quien ha modificado o guardado cambiox
+git status -- short          -- checamos cuales con los archivos agregados
+git branch                   -- en que rama estamos en este caso en master 
+git branche ccnobe           -- se agraga una nueva rama con en nombre de ccnobe
+git checkout ccnobe          -- cambia de rama  de master a ccnobe
+git branch                   -- checamos si estamois en ccnobe
+
+

@@ -1,6 +1,7 @@
 body {
   background-color: aquamarine;
 }
+<<<<<<< HEAD
 div {
   display: block;
   text-align: center;
@@ -13,5 +14,16 @@ img.logo {
   width: 300px;
   display: block;
   display: list-item;
+}
+=======
+h1 {
+  color: navy;
+}
+h1.uno {
+  text-align: center;
+  align-items: center;
+}
+h3.dos {
+>>>>>>> ccnobe
   text-align: center;
 }
