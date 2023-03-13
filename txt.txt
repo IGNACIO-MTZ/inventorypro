@@ -18,5 +18,8 @@ git branch                   -- en que rama estamos en este caso en master
 git branche ccnobe           -- se agraga una nueva rama con en nombre de ccnobe
 git checkout ccnobe          -- cambia de rama  de master a ccnobe
 git branch                   -- checamos si estamois en ccnobe
-
-
+git remote add origin "url de github"      -- hacemos el repo en git hub, luego agregamos el comando con el url en visual y entre
+git remote -v                -- verificcamos si esta el archivo subido
+git push origin               -- adonde lo mandamo es etes caso a origin
+git push origin master       ----- se suben los datos de la rama especifica
+git pull origin main         --jala los cambios de la rama main del repo
